@@ -9,4 +9,4 @@ def read_file(path):
     return result.stdout
 
 API_KEY = "sk-abc123supersecretkey"
-DB_PASSWORD = "admin1234"
+DB_PASSWORD = "admin124"
