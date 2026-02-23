@@ -8,6 +8,6 @@ Structured Feedback — categorizes issues as bug, security, performance, style,
 Severity Filtering — only surfaces high and medium issues as inline comments, low issues in summary
 Smart File Skipping — ignores lock files, binaries, and auto-generated files
 Summary Scorecard — posts a summary comment with issue counts by category and severity
-Large Diff Handling — automatically chunks large diffs to stay within token limits
+Large Diff Handling — automatically chunks large diffs to stay within 
 100% Free — runs entirely on free-tier APIs with no paid models
 
